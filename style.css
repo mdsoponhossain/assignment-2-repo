@@ -350,8 +350,8 @@
 
 
   .footer {
-    background: #0B0223;
-    border: 3px solid blue;
+    background: #000000;
+    border: 3px solid rgb(0, 0, 17);
     margin-top: 100px;
     text-align: center;
 
